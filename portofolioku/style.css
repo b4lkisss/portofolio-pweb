@@ -1,0 +1,43 @@
+
+/* ========== Header ========== */
+header h1 {
+  color: #000000;
+  text-align: center;
+  padding-top: 20px;
+  letter-spacing: 1px;
+}
+
+
+/* ========== Judul Section ========== */
+h2 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* ========== Paragraf ========== */
+p {
+  color: #000000;
+  text-align: center;
+  line-height: 1.6;
+  margin: 20px auto;
+  width: 80%;
+}
+.profile-container {
+  background-color: rgba(91, 138, 172, 0.8); /* Warna putih transparan */
+  padding: 20px;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+.profile-container {
+  background-color: rgba(100, 145, 188, 0.8); /* Warna putih transparan */
+  padding: 20px;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 500px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
